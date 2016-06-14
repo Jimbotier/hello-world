@@ -1,2 +1,2 @@
 # hello-world
-Hello world test
+Hello peoples. It's me, and I'm writing this to learn how GH works.
